@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: mpsharrad@karoshi.org.uk\n"
 "POT-Creation-Date: 2015-11-28 10:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: Norbert Banaszyk <nbanaszyk10@dovergramboys.kent.sch.uk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl \n"
 "MIME-Version: 1.0\n"
@@ -18,280 +18,280 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Main Server Setup"
-msgstr ""
+msgstr "Główna konfiguracja serwera"
 
 msgid "The standard setup has not completed correctly."
-msgstr ""
+msgstr "Standardowa konfiguracja jest nie wypełniło prawidłowo"
 
 msgid "Checking Network"
-msgstr ""
+msgstr "Sprawdzanie sieci"
 
 msgid "Setup"
-msgstr ""
+msgstr "Ustawienia"
 
 msgid "Shorewall"
-msgstr ""
+msgstr "Shorewall"
 
 msgid "NTP"
-msgstr ""
+msgstr "NTP"
 
 msgid "Samba"
-msgstr ""
+msgstr "Samba"
 
 msgid "Root CA for SSL"
-msgstr ""
+msgstr "-----------------------------------------------------------------------------------------------"
 
 msgid "Web Management"
-msgstr ""
+msgstr "Sieci Web Zarządzania"
 
 msgid "Monitorix"
-msgstr ""
+msgstr "monitorix"
 
 msgid "Monitorix Web Management"
-msgstr ""
+msgstr "Monitorix Sieci Web Zarządzania"
 
 msgid "Karoshi Desktop"
-msgstr ""
+msgstr "Karoshi Desktop"
 
 msgid "Creating home folders"
-msgstr ""
+msgstr "Tworzenie folderów domowych"
 
 msgid "Creating"
-msgstr ""
+msgstr "Tworzenie"
 
 msgid "Copying in windows client profiles"
-msgstr ""
+msgstr "opiowanie w profilach klienta Windows"
 
 msgid "Extracting Windows XP Profile"
-msgstr ""
+msgstr "Wyodrębnianie profil systemu Windows XP"
 
 msgid "Extracting Windows 7 Profile"
-msgstr ""
+msgstr "Wyodrębnianie profil systemu Windows 7"
 
 msgid "Extracting Windows 8.1 Profile"
-msgstr ""
+msgstr "Wyodrębnianie profil systemu Windows 8.1"
 
 msgid "There was a problem restoring this data"
-msgstr ""
+msgstr "Wystąpił problem podczas przywracania danych"
 
 msgid "Password"
-msgstr ""
+msgstr "Hasło"
 
 msgid "Confirm"
-msgstr ""
+msgstr "potwierdzać"
 
 msgid "Please enter your fully qualifed domain name."
-msgstr ""
+msgstr "Proszę wprowadzić swój pełni wykwalifikowanej nazwy domeny"
 
 msgid "This could be the same as your web address."
-msgstr ""
+msgstr "To może być taki sam jak adres WWW"
 
 msgid "Example"
-msgstr ""
+msgstr "przykład"
 
 msgid "Domain"
-msgstr ""
+msgstr "Domena"
 
 msgid "Site Name"
-msgstr ""
+msgstr "Nazwa strony"
 
 msgid "Short Name"
-msgstr ""
+msgstr "Krótkie imię"
 
 msgid "Short Site Name"
-msgstr ""
+msgstr "Skrócona nazwa strony"
 
 msgid "You have not entered a fully qualified domain name."
-msgstr ""
+msgstr "Nie wprowadzono w pełni kwalifikowanej nazwy domeny"
 
 msgid "The domain name cannot be the same as the hostname."
-msgstr ""
+msgstr "Nazwa domeny nie może być taka sama jak nazwa hosta"
 
 msgid "The first part of the domain name cannot be the same as the hostname."
-msgstr ""
+msgstr "Pierwsza część nazwy domeny nie może być taka sama jak hosta"
 
 msgid "The maximum character length between dots is 15."
-msgstr ""
+msgstr "Maksymalna długość znaków między punktami wynosi 15"
 
 msgid "The passwords do not match."
-msgstr ""
+msgstr "Hasła nie pasują"
 
 msgid "Please enter the root and administrator password."
-msgstr ""
+msgstr "Proszę podać hasło roota i administratora"
 
 msgid "The password must be at least 8 characters long and have a combination of upper and lower case letters and numbers."
-msgstr ""
+msgstr "Hasło musi mieć co najmniej 8 znaków i mają kombinację wielkich i małych liter i cyfr"
 
 msgid "Minimum 8 characters, numbers, upper and lower case letters."
-msgstr ""
+msgstr "Minimum 8 znaków , cyfr, górne i dolne liter"
 
 msgid "Join an Existing Domain"
-msgstr ""
+msgstr "Dołącz do istniejącej domeny"
 
 msgid "This will restore users and groups from a domain controller running on your domain."
-msgstr ""
+msgstr "Spowoduje to przywrócenie użytkowników i grup z kontrolera domeny z systemem w swojej domenie ."
 
 msgid "Enter the fully qualifed domain name that you want to join."
-msgstr ""
+msgstr "Wprowadź pełni qualifed nazwę domeny , który chcesz dołączyć."
 
 msgid "The username should be a user that has the permissions to join clients to the domain."
-msgstr ""
+msgstr "Nazwa użytkownika powinna być użytkownik , który ma uprawnienia do przyłączenia klientów do domeny"
 
 msgid "Username"
-msgstr ""
+msgstr "Nazwa użytkownika"
 
 msgid "DC TCPIP Address"
-msgstr ""
+msgstr "DC TCPIP Adres"
 
 msgid "SSL Root Password"
-msgstr ""
+msgstr "SSL hasła roota"
 
 msgid "Please enter in the required fields."
-msgstr ""
+msgstr "Proszę wprowadzić wymagane pola"
 
 msgid "DNS Failure for this TCPIP address."
-msgstr ""
+msgstr "Nieprzestrzeganie DNS dla tego adresu TCPIP"
 
 msgid "Root SSL authentication error."
-msgstr ""
+msgstr "Błąd uwierzytelniania SSL korzeń "
 
 msgid "Failed to join the domain."
-msgstr ""
+msgstr "Nie udało się dołączyć do domeny"
 
 msgid "Domain Information"
-msgstr ""
+msgstr "Informacje domeny"
 
 msgid "Your samba domain has now been provisioned."
-msgstr ""
+msgstr "Twoja domena samba został zabezpieczony"
 
 msgid "You will need this information"
-msgstr ""
+msgstr "Trzeba będzie tę informację"
 
 msgid "Fully qualified domain"
-msgstr ""
+msgstr "Domeny w pełni kwalifikowana"
 
 msgid "Short domain name"
-msgstr ""
+msgstr "Skrócona nazwa domeny"
 
 msgid "Base Dn"
-msgstr ""
+msgstr "baza Dn"
 
 msgid "Adding group"
-msgstr ""
+msgstr "Dodawanie grupy"
 
 msgid "Copying in logon files"
-msgstr ""
+msgstr "Kopiowanie w plikach logowania"
 
 msgid "Extracting Windows 10 Profile"
-msgstr ""
+msgstr "Wydobywanie z systemem Windows 10 Profil"
 
 msgid "Setting profile permissions"
-msgstr ""
+msgstr "Ustawianie uprawnień profil"
 
 msgid "Standard setup completed."
-msgstr ""
+msgstr "Standardowa konfiguracja zakończona."
 
 msgid "Install extra modules and servers in the web managment modules section."
-msgstr ""
+msgstr "Zainstalować dodatkowe moduły i serwerów w sekcji modułów zarządzania internetowej."
 
 msgid "This package is not installed."
-msgstr ""
+msgstr "To opakowanie nie jest zainstalowana"
 
 msgid "Network Events"
-msgstr ""
+msgstr "Wydarzenia sieciowe"
 
 msgid "Show"
-msgstr ""
+msgstr "Pokaz"
 
 msgid "Hide"
-msgstr ""
+msgstr "Ukryj"
 
 msgid "Configuring the monitoring system."
-msgstr ""
+msgstr "Konfiguracja systemu monitoringu."
 
 msgid "Starting Mon"
-msgstr ""
+msgstr "Mon rozpoczęciem"
 
 msgid "Starting Apache"
-msgstr ""
+msgstr "Rozpoczęcie Apache"
 
 msgid "Starting MYSQL"
-msgstr ""
+msgstr "Rozpoczęcie MYSQL"
 
 msgid "Creating the kanboard database in mysql"
-msgstr ""
+msgstr "Tworzenie bazy danych kanboard w mysql"
 
 msgid "Extracting Kanboard"
-msgstr ""
+msgstr "Wydobywanie Kanboard"
 
 msgid "Setting permissions for the kanboard data folder."
-msgstr ""
+msgstr "Ustawianie uprawnień dla folderu danych kanboard"
 
 msgid "Restarting shorewall"
-msgstr ""
+msgstr "Ponowne uruchomienie shorewall"
 
 msgid "Samba is not installed"
-msgstr ""
+msgstr "Samba nie jest zainstalowana"
 
 msgid "Setup File Server"
-msgstr ""
+msgstr "File Server Konfiguracja"
 
 msgid "Starting Samba"
-msgstr ""
+msgstr "Rozpoczęcie Samba"
 
 msgid "Completed"
-msgstr ""
+msgstr "zakończone"
 
 msgid "Configure"
-msgstr ""
+msgstr "Konfiguruj"
 
 msgid "mounting"
-msgstr ""
+msgstr "montowanie"
 
 msgid "Opening ports for glusterfs"
-msgstr ""
+msgstr "Otwieranie portów dla glusterfs"
 
 msgid "starting glusterfs"
-msgstr ""
+msgstr "Uruchamianie glusterfs"
 
 msgid "Detaching"
-msgstr ""
+msgstr "Odłączanie"
 
 msgid "Gluster peer probe failure"
-msgstr ""
+msgstr "Uszkodzenie sondy typu peer Gluster"
 
 msgid "Creating GlusterFS volume"
-msgstr ""
+msgstr "Tworzenie woluminu GlusterFS"
 
 msgid "There was a problem creating the volume"
-msgstr ""
+msgstr "Wystąpił problem podczas tworzenia woluminu"
 
 msgid "Starting GlusterFS volume"
-msgstr ""
+msgstr "Uruchamianie objętość GlusterFS"
 
 msgid "There was a problem starting the volume"
-msgstr ""
+msgstr "Wystąpił problem podczas uruchamiania wolumen"
 
 msgid "GlusterFS Server"
-msgstr ""
+msgstr "GlusterFS Server"
 
 msgid "Adding server to gluster volume"
-msgstr ""
+msgstr "Dodawanie serwera do wolumen gluster"
 
 msgid "removing"
-msgstr ""
+msgstr "usuwanie"
 
 msgid "Restoring"
-msgstr ""
+msgstr "Przywracanie"
 
 msgid "stopping glusterfs"
-msgstr ""
+msgstr "zatrzymując glusterfs"
 
 msgid "Starting glusterfs"
-msgstr ""
+msgstr "Uruchamianie glusterfs"
 
 msgid "No volume information"
-msgstr ""
+msgstr "Brak informacji o wolumen"
 
 msgid "Creating the joomla database in mysql"
 msgstr ""
